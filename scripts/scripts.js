@@ -3,7 +3,11 @@
     $(document).on('click',function(){
     $('.collapse').collapse('hide');
     })
+</script>
+
+
     //Smooth scrolling
+<script>
     $(document).ready(function(){
       $('a[href^="#"]').on('click',function (e) {
           e.preventDefault();
