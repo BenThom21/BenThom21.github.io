@@ -1,3 +1,4 @@
+
   // closing navbar on click -- since it stays open on its own //
 <script>
     $(document).on('click',function(){
