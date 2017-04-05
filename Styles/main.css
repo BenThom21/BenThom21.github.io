@@ -161,7 +161,7 @@ hr {
   align-items: center;
 }
 
-.profile-pic {
+img.profile-pic {
   max-width: 15em;
   padding-top: 8px;
   padding-bottom: 10px;
